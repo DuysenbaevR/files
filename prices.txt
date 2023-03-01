@@ -1,0 +1,2 @@
+samsung 5 25000
+apple 5 50000
